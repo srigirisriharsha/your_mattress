@@ -113,7 +113,8 @@ const ContactUsPage = () => {
                   </a>
                 </p>
                 <p className="mt-4 text-gray-500">
-                  <strong>Address:</strong> Jeedimetla, Alwal, India, Telangana
+                  <strong>Address:</strong> Charminar, Hyderabad, Telangana,
+                  India
                 </p>
               </div>
             </div>

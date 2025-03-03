@@ -14,7 +14,7 @@ const FooterSection = () => {
             <div className="w-full h-96 lg:h-[400px] bg-white shadow-lg">
               {/* Embed Google Map for Secunderabad Railway Station */}
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.8657938594047!2d78.46717867516784!3d17.513918783395095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91095e42557f%3A0xc15ae7148d202f4d!2sRelaxPro%20Mattress!5e0!3m2!1sen!2sin!4v1728449698576!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.8657938594047!2d78.46717867516784!3d17.513918783395095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91095e42557f%3A0xc15ae7148d202f4d!2surPro%20Mattress!5e0!3m2!1sen!2sin!4v1728449698576!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

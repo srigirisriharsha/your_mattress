@@ -29,7 +29,7 @@ const AboutUsPage = () => {
   ];
   const [activeTab, setActiveTab] = useState('description');
   const [isCopied, setIsCopied] = useState(false);
-  const upiId = 'relaxpromattresses@ybl';
+  const upiId = '*****';
 
   const copyToClipboard = () => {
     navigator.clipboard
@@ -44,7 +44,7 @@ const AboutUsPage = () => {
   const tabs = [
     { name: 'Guarantee Policy', value: 'description' },
     { name: 'Payment Details', value: 'additionalInfo' },
-    { name: 'Youtube', value: 'reviews' },
+    // { name: 'Youtube', value: 'reviews' },
   ];
   return (
     <div className="animate-slideUp p-5 md:p-5 min-h-4/5">

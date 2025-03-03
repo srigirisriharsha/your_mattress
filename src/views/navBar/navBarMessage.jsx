@@ -7,7 +7,7 @@ const NavBarMessage = () => {
   const messages = [
     'Get flat 5% Off on your First Order',
     'Quality and Care is our Priority',
-    'Visit relaxpro_matresses store to avail huge discounts...!',
+    'Visit urpro_matresses store to avail huge discounts...!',
   ];
 
   useEffect(() => {

@@ -146,7 +146,7 @@ const AdminBuyNow = () => {
         const userObject = {
           name: userData.name,
           email: userData.email,
-          password: 'relaxpro@123#',
+          password: 'urpro@123#',
           address: '',
           mobile: userData.mobileNumber,
         };

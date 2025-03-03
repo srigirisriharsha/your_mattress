@@ -11,7 +11,7 @@ import OrdersHome from './Sections/OrdersHome';
 import Bestsellers from './Sections/Bestsellers';
 import { getProductInOrderById } from '../../services/shop/shopservice';
 import { demoProducts } from '../../components/CustomComponents/utils';
-import ResponsiveYouTubePlayer from './Sections/YouTubePlayer';
+// import ResponsiveYouTubePlayer from './Sections/YouTubePlayer';
 import matricesimage7 from '../../assets/Images/matrices/matresswake.avif';
 import Section2 from './Sections/Section2';
 import ShopByCategories from './Sections/ShopByCategories';
@@ -110,9 +110,9 @@ const HomePage = () => {
         <ShopByCategories />
       </div>
       <Section2 />
-      <div>
+      {/* <div>
         <ResponsiveYouTubePlayer />
-      </div>
+      </div> */}
       {/* {window?.innerWidth > 767 && <Section3 />} */}
 
       {productsByUser?.length > 0 ? (

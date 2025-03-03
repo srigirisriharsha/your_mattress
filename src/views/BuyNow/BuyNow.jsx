@@ -158,8 +158,8 @@ const BuyNow = () => {
         key: 'rzp_test_JLPzhhSYQQkl9m', // Enter the Key ID generated from Razorpay Dashboard
         amount: order.data.amount,
         currency: order.data.currency,
-        name: 'Relax Pro Mattress',
-        description: 'Payment for Relax Pro',
+        name: 'Ur Mattress',
+        description: 'Payment for Ur',
         order_id: order.data.id, // Razorpay Order ID
         handler: async function (response) {
           // Payment is completed; now verify the payment with your backend
