@@ -1,0 +1,8 @@
+.no-scrollbar::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+
+  /* Hide the scrollbar for Firefox */
+  .no-scrollbar {
+    scrollbar-width: none; /* Firefox */
+  }
